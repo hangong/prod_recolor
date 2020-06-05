@@ -1,4 +1,4 @@
-% This version automatically adjusts colours according to primary colour
+% This algorithm automatically adjusts product colours according to primary colour
 % change
 
 % Copyright 2020 Han Gong, University of East Anglia
