@@ -5,7 +5,7 @@ Copyright 2020 Han Gong, University of East Anglia. This work was completed befo
 
 This repository hosts the MATLAB implementation for the working paper:
 
-H Gong, L Yu, and S Westland. "Simple Primary Colour Editing for Consumer Product Images." arXiv preprint arXiv:xxxx.xxxxxx (2020).
+[H Gong, L Yu, and S Westland. "Simple Primary Colour Editing for Consumer Product Images." arXiv preprint arXiv:2006.03743  (2020).](http://arxiv.org/abs/2006.03743)
 
 
 The code is provided for free use (free as in freedom) for both commercial and non-commercial purposes. Hopefully, you will find it useful for your research.
