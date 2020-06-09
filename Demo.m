@@ -10,7 +10,7 @@ imgs = {'Toilet_Rolls.jpg','Table_Cleaner.jpg','lw252.jpg','lw481.jpg', ...
     'Soap.jpg','Hair_Drier.jpg'};
 
 n_img = numel(imgs);
-% c - new colour (specify lab values)
+% c - new colour (specify RGB values)
 c = [127,50,0]/255;
 
 n_row = ceil(n_img/4+1);
